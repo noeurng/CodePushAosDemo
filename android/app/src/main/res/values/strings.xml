@@ -1,0 +1,4 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">vI0KxwpD7pU06tgX9qSmfqQBfaMx45943882-3cef-4c86-b83d-290d07a5c8ba</string>
+    <string name="app_name">RNCodePush</string>
+</resources>
